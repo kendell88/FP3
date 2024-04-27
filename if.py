@@ -28,16 +28,16 @@
 #     else:
 #         print("Sam solo es mayor que alex" )  
 
-# num1=9
-# num2=18
-# num3=11
+num1=9
+num2=18
+num3=11
 
-# if num1>num2 and num1>num3:
-#         print("el numero mayor es", num1)
-# elif num2>num3:
-#         print("el numero mayor es", num2)
-# else:
-#         print("el numero mayor es", num3) 
+if num1>num2 and num1>num3:
+        print("el numero mayor es", num1)
+elif num2>num3:
+        print("el numero mayor es", num2)
+else:
+        print("el numero mayor es", num3) 
 
 
 # tacos=1
